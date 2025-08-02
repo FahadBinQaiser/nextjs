@@ -25,7 +25,7 @@ export default function Home() {
       </header>
       <main className="mt-8 text-center">
         <button className="bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition">
-          Click Me
+          <a href="/blog">Go to Blog</a>
         </button>
       </main>
     </div>
